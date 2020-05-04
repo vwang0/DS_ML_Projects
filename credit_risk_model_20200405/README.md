@@ -8,8 +8,8 @@ EL = Expected Loss
 NCL = Net Credit Loss   
 PD = Probability of Default   
 LGD = loss given default    
-EAD = Exposure at Default    
 RR = Recovery Rate (RR = 1 − LGD)   
+EAD = Exposure at Default    
 
 Reference:   
 https://en.wikipedia.org/wiki/Expected_loss   
