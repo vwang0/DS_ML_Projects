@@ -1,15 +1,15 @@
 
 
 
-EL/NCL = PD × LGD × EAD = PD × (1 − RR) × EAD   
+_**EL/NCL = PD × LGD × EAD = PD × (1 − RR) × EAD**_   
 
 Where :    
-EL = Expected Loss   
+**EL = Expected Loss   
 NCL = Net Credit Loss   
 PD = Probability of Default   
 LGD = loss given default    
 RR = Recovery Rate (RR = 1 − LGD)   
-EAD = Exposure at Default    
+EAD = Exposure at Default**    
 
 Reference:   
 https://en.wikipedia.org/wiki/Expected_loss   
