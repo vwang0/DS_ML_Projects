@@ -36,4 +36,3 @@ python3 get_user_info.py
 #### 统计用户信息
 python3 analyse.py
 会在analyse文件夹下生产合成后的图片以及可视化的文件
-
