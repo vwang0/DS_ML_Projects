@@ -12,6 +12,7 @@ RR = Recovery Rate (RR = 1 − LGD)
 EAD = Exposure at Default**    
 
 Reference:   
+**Expected Loss**   
 https://en.wikipedia.org/wiki/Expected_loss   
 
 Dataset:   
